@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "369525674172",
+    "firebase_url": "https://garbage-buddy-default-rtdb.firebaseio.com",
+    "project_id": "garbage-buddy",
+    "storage_bucket": "garbage-buddy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369525674172:android:9888d0522621b84cec80b9",
+        "android_client_info": {
+          "package_name": "com.example.garbagebuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369525674172-f9kuoo7a0kaksgigg54q10aul95rip5g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3n8EkSuNLCbQRhOQ3k11ieCb_CEzbytk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369525674172-f9kuoo7a0kaksgigg54q10aul95rip5g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
